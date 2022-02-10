@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Css cho thẻ ô */
+table{
+    margin: auto;
+    border-collapse: collapse;
+}
+p{
+    text-align: center;
+}
+.bai2-1 tr:nth-child(even) {
+    background-color: #dddddd;
+}
+td,th{
+    text-align: center;
+    padding: 8px;
+    border: solid 1px black;
+}
